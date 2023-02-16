@@ -1,0 +1,7 @@
+report:
+  pullRequest: "onAllFiles"
+notifications:
+  slack:
+    enabled: false
+bundles:
+  - go
